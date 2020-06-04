@@ -15,4 +15,4 @@ Creates virtual distributed switch from csv file ".....the script still in dev p
 
 The csv file must have column with:
 - portgroup;
-- IP;
+ *IP;
