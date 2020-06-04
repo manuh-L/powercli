@@ -8,6 +8,5 @@ Prerequisite:
 * administrator role
 * VM must have ip
 * D: drive = CD-ROM Drive or change it, line xx
---assuming: The VMs already have IP and the cd drive letter is D
 
 #
