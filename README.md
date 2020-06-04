@@ -12,4 +12,5 @@ Prerequisite:
 
 # vDS_csv.ps1 (v1.0)
 Creates virtual distributed switch from csv file
+
 .....the script still in dev phase 'the ultimate goal is to automate all the process of creation and migration of hosts & vms to vDS' 
