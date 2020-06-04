@@ -11,4 +11,4 @@ Prerequisite:
 
 
 # vDS_csv.ps1 (v1.0)
-Creates virtual distributed switch based 
+Creates virtual distributed switch from csv file 
