@@ -1,10 +1,12 @@
-# powercli
-My VMware PowerCLI Scripts
+# Powercli
+This repository contains my powercli script examples
 
-
-Here I'll share my PowerCLI scripts
-
-# vmtools.ps1
-This PowerCLI example intalls VMwaretools on Windows VMs that doesn't have, assuming: The VMs already have IP and the cd drive letter is D
+## vmtools.ps1
+This PowerCLI script install VMware Tools on Windows VMs that doesn't have.
+Prerequisite:
+*administrator role
+*VM must have ip
+* D: drive = CD-ROM Drive or change it, line xx
+--assuming: The VMs already have IP and the cd drive letter is D
 
 #
