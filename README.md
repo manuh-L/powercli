@@ -10,4 +10,5 @@ Prerequisite:
 * D: drive = CD-ROM Drive or change it, line xx
 
 
-# vDS_csv.ps1
+# vDS_csv.ps1 (v.1.0)
+Creates virtual distributed switch based 
